@@ -1,0 +1,5 @@
+2022/07/31-18:10:36.968 8244 Reusing MANIFEST C:/Playground/Unreal/RaytracingTest/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/31-18:25:01.331 7358 Level-0 table #5: started
+2022/07/31-18:25:01.336 7358 Level-0 table #5: 7493 bytes OK
+2022/07/31-18:25:01.343 7358 Delete type=0 #3
+2022/07/31-18:25:01.343 7358 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
